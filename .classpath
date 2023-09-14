@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="lib/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="lib/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/jetty-repacked-9.4.12.v20180830.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-server-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/book/old 10th/snakeyaml-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/aai/commons-io-2.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
